@@ -1,0 +1,6 @@
+:HL["/kumbang-preview/_next/static/media/636a5ac981f94f8b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kumbang-preview/_next/static/css/1079dbdf3a28348d.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"premium","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
+0:{"b":"pE34dSccqMIpJ3c5ws6wf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

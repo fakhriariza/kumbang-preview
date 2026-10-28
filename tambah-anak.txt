@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:"static/chunks/dfe01bee-d81ff901fdcfb897.js"
+3:"static/chunks/5e8e9ffc-58974150a42cdf37.js"
+4:"static/chunks/0e142730-48de9518ac9a3c4e.js"
+5:"static/chunks/307-bec05becbf7b8618.js"
+6:"static/chunks/app/layout-40180f0dbf4bc1ed.js"
+7:I[6467,["705","$2","984","$3","301","$4","307","$5","177","$6"],"AuthProvider"]
+8:I[8283,["705","$2","984","$3","301","$4","307","$5","177","$6"],"default"]
+9:I[7121,[],""]
+a:I[4581,[],""]
+c:"static/chunks/756-f86b7b50a7be2a5f.js"
+d:"static/chunks/app/(app)/layout-9038ade185a52816.js"
+e:I[8117,["705","$2","984","$3","301","$4","307","$5","756","$c","944","$d"],"default"]
+f:I[4935,["705","$2","984","$3","301","$4","307","$5","756","$c","944","$d"],"default"]
+13:I[1304,[],"ClientPageRoot"]
+14:"static/chunks/609-d37a69b722eb550a.js"
+15:"static/chunks/519-0e13f47878c09815.js"
+16:"static/chunks/app/(app)/tambah-anak/page-370ae13a3bb64d66.js"
+17:I[7739,["705","$2","984","$3","301","$4","307","$5","756","$c","609","$14","519","$15","939","$16"],"default"]
+1a:I[484,[],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:"ViewportBoundary"
+1e:I[484,[],"$1d"]
+20:"MetadataBoundary"
+21:I[484,[],"$20"]
+23:I[7123,[],"default",1]
+:HL["/kumbang-preview/_next/static/media/636a5ac981f94f8b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kumbang-preview/_next/static/css/1079dbdf3a28348d.css","style"]
+11:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L13",null,{"Component":"$17","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@18","$@19"]}}],null,["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}],"p":false,"v":null}}]]
+10:[["children",{"s":"tambah-anak","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q12"}]]
+b:[["children",{"s":"(app)","h":512,"d":{"r":["$","$1","c",{"children":[null,[["$","$Le",null,{}],["$","$Lf",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]]}],"p":false,"v":null},"c":"$Q10"}]]
+0:{"P":null,"c":["","tambah-anak"],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kumbang-preview/_next/static/css/1079dbdf3a28348d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"id","className":"__variable_447699","children":["$","body",null,{"className":"min-h-dvh bg-bg font-sans text-ink antialiased","children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L22"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$23",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"pE34dSccqMIpJ3c5ws6wf"}
+11:C
+18:{}
+19:"$12:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFF9F2"}]]
+24:I[6869,[],"IconMark"]
+1c:null
+22:[["$","title","0",{"children":"Kumbang — Tumbuh Kembang Anak, Sesuai Kemenkes"}],["$","meta","1",{"name":"description","content":"Panduan perkembangan anak 0–6 tahun sesuai Buku KIA & Pedoman SDIDTK Kemenkes: tahap perkembangan, imunisasi, dan pertumbuhan — tanpa mengarang, semua bersumber resmi."}],["$","meta","2",{"name":"application-name","content":"Kumbang"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Kumbang"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/icons/icon-32.png","sizes":"32x32","type":"image/png"}],["$","link","8",{"rel":"icon","href":"/icons/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","9",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L24","10",{}]]
